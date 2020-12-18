@@ -1,2 +1,2 @@
 # AddHocInstalling
-# 🔥Share iOS usin Cloud and Github hosting🔥
+🔥Share iOS using Cloud and github hosting🔥
